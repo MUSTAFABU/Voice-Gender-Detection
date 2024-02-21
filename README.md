@@ -1,2 +1,2 @@
 # Voice-Gender-Detection
-voice gender detector is a type of software or system designed to analyze audio recordings and determine the gender of the speaker based on characteristics of their voice. These detectors utilize various acoustic features such as pitch, tone, resonance, and speech patterns to make their assessments.
+developing  a machine learning model that is capable of predicting the gender of a speaker based on a short audio clip and csv file of audiodataset. This invloves handling audio data pre-processing, feature extraction, and applying the appropriate machine learning techniques to achieve reliable predictions. challenges, such as differing voice tones and pitches among speakers of the same gender.
